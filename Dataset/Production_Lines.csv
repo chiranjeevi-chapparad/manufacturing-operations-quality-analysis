@@ -1,0 +1,6 @@
+Line_ID,Line_Name,Location,Capacity_Per_Shift
+101,Assembly Line A,Plant A,500
+102,Assembly Line B,Plant A,450
+103,Packaging Line,Plant B,600
+104,Machining Line,Plant B,400
+105,Testing Line,Plant C,350

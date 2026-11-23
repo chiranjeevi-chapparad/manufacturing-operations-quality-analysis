@@ -1,0 +1,16 @@
+Product_ID,Product_Name,Product_Category,Standard_Cycle_Time_Seconds
+2001,Industrial_Component_1,Automotive,29.77
+2002,Industrial_Component_2,Mechanical,88.42
+2003,Industrial_Component_3,Automotive,64.02
+2004,Industrial_Component_4,Mechanical,32.2
+2005,Industrial_Component_5,Mechanical,69.52
+2006,Industrial_Component_6,Automotive,23.44
+2007,Industrial_Component_7,Automotive,110.93
+2008,Industrial_Component_8,Mechanical,45.88
+2009,Industrial_Component_9,Electrical,86.25
+2010,Industrial_Component_10,Automotive,51.17
+2011,Industrial_Component_11,Electrical,72.01
+2012,Industrial_Component_12,Electrical,74.67
+2013,Industrial_Component_13,Electrical,38.49
+2014,Industrial_Component_14,Automotive,116.96
+2015,Industrial_Component_15,Electrical,97.51

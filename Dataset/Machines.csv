@@ -1,0 +1,21 @@
+Machine_ID,Machine_Name,Line_ID,Machine_Type,Installation_Date
+1001,Machine_1,101,Testing Machine,2023-08-30
+1002,Machine_2,101,Conveyor System,2020-01-22
+1003,Machine_3,101,Packaging Machine,2020-09-09
+1004,Machine_4,101,Conveyor System,2022-01-17
+1005,Machine_5,102,Conveyor System,2022-05-06
+1006,Machine_6,102,CNC Machine,2024-05-03
+1007,Machine_7,102,Packaging Machine,2021-04-19
+1008,Machine_8,102,Packaging Machine,2022-12-18
+1009,Machine_9,103,Packaging Machine,2021-05-25
+1010,Machine_10,103,Conveyor System,2024-09-01
+1011,Machine_11,103,Testing Machine,2024-02-08
+1012,Machine_12,103,Packaging Machine,2021-11-30
+1013,Machine_13,104,Conveyor System,2022-09-02
+1014,Machine_14,104,CNC Machine,2024-12-11
+1015,Machine_15,104,Testing Machine,2020-07-08
+1016,Machine_16,104,CNC Machine,2022-08-15
+1017,Machine_17,105,Testing Machine,2021-11-17
+1018,Machine_18,105,Conveyor System,2022-08-15
+1019,Machine_19,105,Assembly Machine,2021-07-16
+1020,Machine_20,105,Testing Machine,2024-05-09
