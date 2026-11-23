@@ -1,0 +1,11 @@
+Metric,Value
+Total Production,710454
+Good Production,671172
+Rejected Production,39282
+Overall Rejection Rate,5.53
+Total Downtime (Minutes),93118
+Total Downtime (Hours),1551.97
+Total Downtime Incidents,1000
+Highest Production Month,May
+Highest Rejection Machine,1007
+Highest Rejection Product,Industrial_Component_6
