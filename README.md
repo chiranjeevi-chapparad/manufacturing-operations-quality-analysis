@@ -187,8 +187,7 @@ An interactive Power BI dashboard was developed to provide a consolidated view o
 
 ### Dashboard Preview
 
-![Manufacturing Operations and Quality Dashboard](./Dashboard/manufacturing_dashboard_overview.png)
-
+![Manufacturing Operations and Quality Dashboard](Dashboard/manufacturing_dashboard_overview.jpg)
 **Power BI report:** `Dashboard/manufacturing_operations_dashboard.pbix`
 
 ## 11. Business Recommendations
