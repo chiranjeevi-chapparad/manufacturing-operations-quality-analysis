@@ -223,8 +223,6 @@ Manufacturing-Operations-Quality-Analysis/
 │   ├── Quality_Inspections.csv
 │   └── Downtime_Logs.csv
 │
-├── Python/
-│
 ├── Analysis/
 │   ├── manufacturing_analysis.ipynb
 │   ├── manufacturing_data_generation.ipynb
